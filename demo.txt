@@ -2,3 +2,6 @@ hello
 hi...
 my name is aditya.
 commiting from github.
+
+from lines for
+git gui.
