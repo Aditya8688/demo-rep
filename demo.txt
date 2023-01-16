@@ -1,9 +1,5 @@
 hello
 hi...
 my name is aditya.
-commiting from github.
-
-from lines for
-git gui.
-
-checkout okay
+---------------------------
+from here revert, restore, checkbox.
