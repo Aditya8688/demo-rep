@@ -5,3 +5,5 @@ commiting from github.
 
 from lines for
 git gui.
+
+checkout okay
